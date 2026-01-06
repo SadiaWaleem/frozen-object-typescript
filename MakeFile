@@ -1,0 +1,9 @@
+
+install-deps:
+	npm install
+
+check-type:
+	npm run typecheck
+
+run-tests:
+	npm test
